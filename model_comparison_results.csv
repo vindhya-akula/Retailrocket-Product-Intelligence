@@ -1,0 +1,6 @@
+Model,Recall@10 (%),NDCG@10 (%)
+Popularity baseline,0.5525,0.2492
+Last-product raw counts,14.7088,9.458
+Three-view context model,13.6016,8.5969
+Conditional-probability model,14.7182,9.4629
+Hybrid model,14.9675,9.6043

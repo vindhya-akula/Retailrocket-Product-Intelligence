@@ -1,0 +1,3 @@
+history_group,test_examples,hits_at_10,recall_at_10,recall_at_10_pct
+Cold-start fallback,29043,443,0.015253245188169267,1.5253245188169267
+Known transition history,152664,26754,0.17524760257821098,17.524760257821097
